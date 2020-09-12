@@ -5,9 +5,9 @@ Repositorio para simfiles de stepmania
 
 Es el primer pack subido a git que traerá actualizaciones periódicas. Detallo lista de temas , sus  dificultades y BPM(no incluye velocidades).
 
-Total: 20
+Total: 32
 
-**Grupo Base**
+**Grupo Base** (+20)
 
 * **99 Glooms/Sta**    _10/16/17    93-185_
 * **Aphasia/Team Grimoire**    _7/13/18   155_
@@ -30,7 +30,7 @@ Total: 20
 * **Wandeering Darkness/Shoujo Fractal**   _6/9/12/15/??    160_
 * **Where's my head Sekibanki-chan/nanano**    _11/14/18/??   109-218_
 
-**Grupo 2**
+**Grupo 2** (+12)
 
 * **Dazzling White Town/Saint Snow**    _6/9/14/??    133_
 * **DROPOUT!?/Saint Snow**    _11/14/17    183-364_
