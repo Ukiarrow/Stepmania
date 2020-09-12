@@ -38,11 +38,11 @@ Total: 20
 * **Fight Another Day (Andy Tunstall Remix)/Kat Penkin**    _6/9/12/??    120_
 * **GALAXY  HidE and SeeK/AZALEA**    _5/8/13    141_
 * **in this unstable world/Yoshiko Tsushima**    _7/9/14/??    128_
-* **悔しさは種/Chiai Fujikawa**    _6/12/14    182_
-* **眠れる森に行きたいな/Kanata Konoe**    _6/7/8/??    68-98_
 * **Realize/Konomi Suzuki**    _8/10/13    206_
 * **SUPER NOVA/DiverDiva**    _7/9/13    128_
 * **The Spark/Scott Brown & M-Project feat. Krystal**    _7/10/13    175_
+* **悔しさは種/Chiai Fujikawa**    _6/12/14    182_
+* **眠れる森に行きたいな/Kanata Konoe**    _6/7/8/??    68-98_
 * **トリコリコPLEASE!!/AZALEA**    _11/8/11/13    140_
 
 DATO del commit: Las canciones con ?? suelen tener detalles o peculiaridades respecto a las demas dificultades, atento ahi y disfrute :3
