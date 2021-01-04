@@ -5,7 +5,9 @@ Repositorio para simfiles de stepmania
 
 Es el primer pack subido a git que traerá actualizaciones periódicas. Detallo lista de temas , sus  dificultades y BPM(no incluye velocidades).
 
-Total: 20
+Total: 32
+
+**Grupo Base** (+20)
 
 * **99 Glooms/Sta**    _10/16/17    93-185_
 * **Aphasia/Team Grimoire**    _7/13/18   155_
@@ -28,3 +30,19 @@ Total: 20
 * **Wandeering Darkness/Shoujo Fractal**   _6/9/12/15/??    160_
 * **Where's my head Sekibanki-chan/nanano**    _11/14/18/??   109-218_
 
+**Grupo 2** (+12)
+
+* **Dazzling White Town/Saint Snow**    _6/9/14/??    133_
+* **DROPOUT!?/Saint Snow**    _11/14/17    183-364_
+* **Evergreen/Emma Verde**    _7/9/13/??    120_
+* **Fight Another Day (Andy Tunstall Remix)/Kat Penkin**    _6/9/12/??    120_
+* **GALAXY  HidE and SeeK/AZALEA**    _5/8/13    141_
+* **in this unstable world/Yoshiko Tsushima**    _7/9/14/??    128_
+* **Realize/Konomi Suzuki**    _8/10/13    206_
+* **SUPER NOVA/DiverDiva**    _7/9/13    128_
+* **The Spark/Scott Brown & M-Project feat. Krystal**    _7/10/13    175_
+* **悔しさは種/Chiai Fujikawa**    _6/12/14    182_
+* **眠れる森に行きたいな/Kanata Konoe**    _6/7/8/??    68-98_
+* **トリコリコPLEASE!!/AZALEA**    _11/8/11/13    140_
+
+DATO del commit: Las canciones con ?? suelen tener detalles o peculiaridades respecto a las demas dificultades, atento ahi y disfrute :3
