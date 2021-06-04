@@ -23,10 +23,10 @@ Total: 52
 * **Standby for Action/3R2**   _7/11/14/16/??   128_
 * **Starlight/Karin Asaka**    _7/12/14   128_
 * **Survive/Kevin Perkin feat. Nikki Simmons**   _6/9/12    131_
-* **The Pierrot of the Star-Spangled/Alex Yin**   _ 9/14/??   90-180_
+* **The Pierrot of the Star-Spangled/Alex Yin**   _9/14/??   90-180_
 * **The rabbit has landed (Remix by Twizz)/ZUN**   _11/13/??    173-190_
 * **Trauma saimin shoujo Satori!/DJ SHARPNEL feat. monotone**    _11/13/17/??   ???_
-* **Uranus/MK**    8/12/16/17/??   165
+* **Uranus/MK**    _8/12/16/17/??   165_
 * **Wandeering Darkness/Shoujo Fractal**   _6/9/12/15/??    160_
 * **Where's my head Sekibanki-chan/nanano**    _11/14/18/??   109-218_
 
@@ -67,5 +67,13 @@ Total: 52
 * **The Sea Where One's Home Planet Reflects/ZUN**    _17/??    86_
 * **Tokiwatari/Yamajet**    _10/12/17   85-170_
 * **Who Am I?/Iris feat. Ruri Matsumura**   _6/9/14   147_
+
+**Grupo 4** (+5)
+
+* **CHASE!/Setsuna Yuuki**   _10/13    170_
+* **Diamond/Kasumi Nakasu**   _9/13    175_
+* **Doki Pipo Emotion/Rina Tennoji**   _11/13    168_
+* **Meccha Going!!/Ai Miyashita**   _10/12    132_
+* **Yume e no Ippo/Ayumu Uehara**   _8/10    85-170_
 
 DATO del commit: Las canciones con ?? suelen tener detalles o peculiaridades respecto a las demas dificultades, atento ahi y disfrute :3
