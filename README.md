@@ -5,7 +5,7 @@ Repositorio para simfiles de stepmania
 
 Es el primer pack subido a git que traerá actualizaciones periódicas. Detallo lista de temas , sus  dificultades y BPM(no incluye velocidades).
 
-Total: 52
+Total: 64
 
 **Grupo Base** (+20)
 
@@ -68,12 +68,20 @@ Total: 52
 * **Tokiwatari/Yamajet**    _10/12/17   85-170_
 * **Who Am I?/Iris feat. Ruri Matsumura**   _6/9/14   147_
 
-**Grupo 4** (+5)
+**Grupo 4** (+12)
 
 * **CHASE!/Setsuna Yuuki**   _10/13    170_
+* **CRASH MIND/Saint Snow**   _8/13    122_
 * **Diamond/Kasumi Nakasu**   _9/13    175_
 * **Doki Pipo Emotion/Rina Tennoji**   _11/13    168_
+* **Fireflies (Funk Fiction Remix)/Nikki Simons**   _7/13/15    130_
+* **KOWAREYASUKI/Guilty Kiss**   _11/14/14    92-184_
+* **Make Me Burn/JAKAZiD**   _14/17    140_
 * **Meccha Going!!/Ai Miyashita**   _10/12    132_
+* **Nijiiro Passions!/Nijigasaki High School Idol Club**   _10/11    180_
+* **Spotlight/A-Tz & Sam & Xinevsky**   _8/14    101_
+* **Stranger/James Landino**   _12/15    171_
 * **Yume e no Ippo/Ayumu Uehara**   _8/10    85-170_
+
 
 DATO del commit: Las canciones con ?? suelen tener detalles o peculiaridades respecto a las demas dificultades, atento ahi y disfrute :3
