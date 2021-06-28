@@ -7,7 +7,7 @@
 #GENRE:;
 #CREDIT:;
 #BANNER:Nijiiro Passions!-bn.png;
-#BACKGROUND:Nijiiro Passions!-bg.png;
+#BACKGROUND:Nijiiro Passions!-bg.jpg;
 #LYRICSPATH:;
 #CDTITLE:;
 #MUSIC:Nijiiro Passions!.mp3;
@@ -31,7 +31,7 @@
      dance-single:
      :
      Hard:
-     11:
+     12:
      0.636479,0.687920,0.421310,0.547703,0.010533,423.000000,383.000000,40.000000,52.000000,0.000000,1.000000,0.636479,0.687920,0.421310,0.547703,0.010533,423.000000,383.000000,40.000000,52.000000,0.000000,1.000000:
   // measure 0
 0000
