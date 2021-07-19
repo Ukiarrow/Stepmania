@@ -5,7 +5,7 @@ Repositorio para simfiles de stepmania
 
 Es el primer pack subido a git que traerá actualizaciones periódicas. Detallo lista de temas , sus  dificultades y BPM(no incluye velocidades).
 
-Total: 64
+Total: 67
 
 **Grupo Base** (+20)
 
@@ -68,19 +68,22 @@ Total: 64
 * **Tokiwatari/Yamajet**    _10/12/17   85-170_
 * **Who Am I?/Iris feat. Ruri Matsumura**   _6/9/14   147_
 
-**Grupo 4** (+12)
+**Grupo 4** (+15)
 
+* **Baku/Ikimonogakari**   _12/14    228_
 * **CHASE!/Setsuna Yuuki**   _10/13    170_
 * **CRASH MIND/Saint Snow**   _8/13    122_
+* **Cutie Panther/BiBi**   _12/14/17    170_
 * **Diamond/Kasumi Nakasu**   _9/13    175_
 * **Doki Pipo Emotion/Rina Tennoji**   _11/13    168_
-* **Fireflies (Funk Fiction Remix)/Nikki Simons**   _7/13/15    130_
+* **Fireflies (Funk Fiction Remix)/Nikki Simons**   _7/12/15    130_
 * **KOWAREYASUKI/Guilty Kiss**   _11/14/14    92-184_
-* **Make Me Burn/JAKAZiD**   _14/17    140_
+* **Make Me Burn/JAKAZiD**   _13/17    140_
 * **Meccha Going!!/Ai Miyashita**   _10/12    132_
-* **Nijiiro Passions!/Nijigasaki High School Idol Club**   _10/11    180_
-* **Spotlight/A-Tz & Sam & Xinevsky**   _8/14    101_
-* **Stranger/James Landino**   _12/15    171_
+* **Nijiiro Passions!/Nijigasaki High School Idol Club**   _10/12    180_
+* **Spotlight On/A-Tz & Sam & Xinevsky**   _8/14    101_
+* **Stranger/James Landino**   _12/15/18    171_
+* **Wake up, Challenger!!/Aqours**   _8/10    158_
 * **Yume e no Ippo/Ayumu Uehara**   _8/10    85-170_
 
 
