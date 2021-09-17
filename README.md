@@ -5,7 +5,7 @@ Repositorio para simfiles de stepmania
 
 Es el primer pack subido a git que traerá actualizaciones periódicas. Detallo lista de temas , sus  dificultades y BPM(no incluye velocidades).
 
-Total: 67
+Total: 87
 
 **Grupo Base** (+20)
 
@@ -86,5 +86,27 @@ Total: 67
 * **Wake up, Challenger!!/Aqours**   _8/10    158_
 * **Yume e no Ippo/Ayumu Uehara**   _8/10    85-170_
 
+**Grupo 5** (+20)
+
+* **Alexandrite/Onoken**   _12/17    88-175_
+* **Beautiful Moonlight/QU4RTZ**   _9/14/15    116_
+* **βinαrΨ/Ring**   _12/15    168_
+* **BloodyMare/Tatsh Assault X**   _12/17/18    85-227_
+* **CHAOS/Æsir**   _16/17    150_
+* **Dead Point/Neutral Moon**   _11/16    88-175_
+* **Effervesce/MELOIMAGE**   _11/15    94-188_
+* **Gravity/M2U**   _11/16/18    128_
+* **Ketsui no Hikari/Shioriko Mifune**   _11/14    176_
+* **Koi no Signal Rin Rin Rin!/Rin Hoshizora**   _11/16    222_
+* **Midnight/Teikyou**   _10/16    100_
+* **New winding road/Mari Ohara**   _4/7    160_
+* **Private Wars/A-RISE**   _6/9    128_
+* **Resurrection/Kiryu**   _10/15    195_
+* **Return of the Lamp/柳田Ethnica**   _8/10    85-170_
+* **Shadow gate to love/Guilty Kiss**   _8/13    105_
+* **The Siege/3R2**   _12/16    166_
+* **The Whole Rest/KIVΛ**   _8/13    157_
+* **TOKIMEKI Runners/Nijigasaki High School Idol Club**   _9/11    180_
+* **Winter Games/GALAXIKA, MONO TO STEREO, TIGER DARROW**   _6/9    118_
 
 DATO del commit: Las canciones con ?? suelen tener detalles o peculiaridades respecto a las demas dificultades, atento ahi y disfrute :3
