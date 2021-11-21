@@ -3,9 +3,9 @@ Repositorio para simfiles de stepmania
 
 ## Project Architect
 
-Es el primer pack subido a git que traerá actualizaciones periódicas. Detallo lista de temas , sus  dificultades y BPM(no incluye velocidades).
+Es el primer pack subido a git que traerá actualizaciones periódicas. Detallo la lista de temas , sus dificultades y BPM (no incluye velocidades).
 
-Total: 87
+Total: 101
 
 **Grupo Base** (+20)
 
@@ -108,5 +108,22 @@ Total: 87
 * **The Whole Rest/KIVΛ**   _8/13    157_
 * **TOKIMEKI Runners/Nijigasaki High School Idol Club**   _9/11    180_
 * **Winter Games/GALAXIKA, MONO TO STEREO, TIGER DARROW**   _6/9    118_
+
+**Grupo 6** (+14)
+
+* **Binetsu Kara Mystery/Lily White**   _8/12    172_
+* **Butterfly/Kanata Konoe**   _10/12    155_
+* **DIVE!/Setsuna Yuuki**   _11/15    180_
+* **I'm Still/Mia Taylor**   _10/12    90_
+* **Kinmirai Happy End/CYaRon!**   _10/12/17    165_
+* **La Bella Patria/Emma Verde**   _10/13/14    156-186_
+* **Mirai wa Kaze no you ni/Liella!**   _7/10    136_
+* **Nonfiction!!/Liella!**   _11/15    232_
+* **Poppin' Up!/Kasumi Nakasu**   _9/14    215_
+* **Queendom/Lanzhu Zhong**   _7/11    105_
+* **Saiko Heart/Ai Miyashita**   _10/15    80-160_
+* **Solitude Rain/Shizuku Osaka**   _12/12    158_
+* **START!! True dreams/Liella!**   _10/12    178_
+* **Tsunagaru Connect/Rina Tennoji**   _9/12    175_
 
 DATO del commit: Las canciones con ?? suelen tener detalles o peculiaridades respecto a las demas dificultades, atento ahi y disfrute :3
