@@ -5,7 +5,7 @@ Repositorio para simfiles de stepmania
 
 Es el primer pack subido a git que traerá actualizaciones periódicas. Detallo la lista de temas , sus dificultades y BPM (no incluye velocidades).
 
-Total: 101
+Total: 108
 
 **Grupo Base** (+20)
 
@@ -109,11 +109,14 @@ Total: 101
 * **TOKIMEKI Runners/Nijigasaki High School Idol Club**   _9/11    180_
 * **Winter Games/GALAXIKA, MONO TO STEREO, TIGER DARROW**   _6/9    118_
 
-**Grupo 6** (+14)
+**Grupo 6** (+21)
 
 * **Binetsu Kara Mystery/Lily White**   _8/12    172_
 * **Butterfly/Kanata Konoe**   _10/12    155_
 * **DIVE!/Setsuna Yuuki**   _11/15    180_
+* **Dream Land! Dream World!/A·ZU·NA**   _7/15    210_
+* **Dream with You/Ayumu Uehara**   _9/11    136_
+* **Future flight/Aqours**   _10/15    188_
 * **I'm Still/Mia Taylor**   _10/12    90_
 * **Kinmirai Happy End/CYaRon!**   _10/12/17    165_
 * **La Bella Patria/Emma Verde**   _10/13/14    156-186_
@@ -122,8 +125,12 @@ Total: 101
 * **Poppin' Up!/Kasumi Nakasu**   _9/14    215_
 * **Queendom/Lanzhu Zhong**   _7/11    105_
 * **Saiko Heart/Ai Miyashita**   _10/15    80-160_
+* **Snow Halation/μ's**   _8/13/14    173_
 * **Solitude Rain/Shizuku Osaka**   _12/12    158_
+* **Starlight Prologue/Liella!**   _9/11    165_
 * **START!! True dreams/Liella!**   _10/12    178_
+* **SUPER NOVA/DiverDiva**    _7/9/12    128_ **(Actualizado!!)**
+* **Tokonatsu☆Sunshine/Liella!**   _XX/16    112-155_
 * **Tsunagaru Connect/Rina Tennoji**   _9/12    175_
 
 DATO del commit: Las canciones con ?? suelen tener detalles o peculiaridades respecto a las demas dificultades, atento ahi y disfrute :3
