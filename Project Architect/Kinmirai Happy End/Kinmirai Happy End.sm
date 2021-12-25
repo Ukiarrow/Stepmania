@@ -7,9 +7,9 @@
 #GENRE:;
 #CREDIT:;
 #BANNER:Kinmirai Happy End-bn.png;
-#BACKGROUND:;
+#BACKGROUND:Kinmirai Happy End-bg.png;
 #LYRICSPATH:;
-#CDTITLE:;
+#CDTITLE:cdtitle_ukiarrow.png;
 #MUSIC:Kinmirai Happy End.mp3;
 #OFFSET:1.179999;
 #SAMPLESTART:65.679855;
@@ -1570,11 +1570,11 @@
 0000
 ;
 
-//---------------dance-single - ----------------
+//---------------dance-single - ENCORE----------------
 #NOTES:
      dance-single:
-     :
-     Challenge:
+     ENCORE:
+     Edit:
      16:
      0.866304,0.912341,0.469756,0.478297,0.606413,710.000000,655.000000,55.000000,56.000000,0.000000,0.000000,0.866304,0.912341,0.469756,0.478297,0.606413,710.000000,655.000000,55.000000,56.000000,0.000000,0.000000:
   // measure 0

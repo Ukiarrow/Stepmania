@@ -9,13 +9,13 @@
 #ORIGIN:;
 #CREDIT:;
 #BANNER:Butterfly-bn.jpg;
-#BACKGROUND:;
+#BACKGROUND:Butterfly-bg.png;
 #PREVIEWVID:;
 #JACKET:Butterfly-jacket.jpg;
 #CDIMAGE:;
 #DISCIMAGE:;
 #LYRICSPATH:;
-#CDTITLE:;
+#CDTITLE:cdtitle_ukiarrow.png;
 #MUSIC:Butterfly.mp3;
 #OFFSET:0.660000;
 #SAMPLESTART:55.439972;

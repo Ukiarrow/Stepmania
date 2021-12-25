@@ -9,13 +9,13 @@
 #ORIGIN:;
 #CREDIT:;
 #BANNER:Snow Halation-bn.png;
-#BACKGROUND:;
+#BACKGROUND:Snow Halation-bg.jpg;
 #PREVIEWVID:;
 #JACKET:Snow Halation-jacket.png;
 #CDIMAGE:;
 #DISCIMAGE:;
 #LYRICSPATH:;
-#CDTITLE:;
+#CDTITLE:cdtitle_ukiarrow.png;
 #MUSIC:Snow Halation.mp3;
 #OFFSET:1.040000;
 #SAMPLESTART:53.359905;

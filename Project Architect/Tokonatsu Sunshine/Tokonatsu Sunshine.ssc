@@ -9,13 +9,13 @@
 #ORIGIN:;
 #CREDIT:;
 #BANNER:Tokonatsu Sunshine-bn.jpg;
-#BACKGROUND:;
+#BACKGROUND:Tokonatsu Sunshine-bg.jpg;
 #PREVIEWVID:;
 #JACKET:jacket.jpg;
 #CDIMAGE:;
 #DISCIMAGE:;
 #LYRICSPATH:;
-#CDTITLE:;
+#CDTITLE:cdtitle_ukiarrow.png;
 #MUSIC:Tokonatsu Sunshine.mp3;
 #OFFSET:2.859999;
 #SAMPLESTART:69.139984;

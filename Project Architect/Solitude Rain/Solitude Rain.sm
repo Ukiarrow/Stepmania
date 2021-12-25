@@ -7,9 +7,9 @@
 #GENRE:;
 #CREDIT:;
 #BANNER:Solitude Rain-bn.jpg;
-#BACKGROUND:;
+#BACKGROUND:Solitude Rain-bg.png;
 #LYRICSPATH:;
-#CDTITLE:;
+#CDTITLE:cdtitle_ukiarrow.png;
 #MUSIC:Solitude Rain.mp3;
 #OFFSET:-0.920000;
 #SAMPLESTART:0.000000;

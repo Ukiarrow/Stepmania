@@ -7,9 +7,9 @@
 #GENRE:;
 #CREDIT:;
 #BANNER:La Bella Patria-bn.jpg;
-#BACKGROUND:;
+#BACKGROUND:La Bella Patria-bg.png;
 #LYRICSPATH:;
-#CDTITLE:;
+#CDTITLE:cdtitle_ukiarrow.png;
 #MUSIC:La Bella Patria.mp3;
 #OFFSET:-0.140000;
 #SAMPLESTART:73.919975;

@@ -112,15 +112,15 @@ Total: 112
 **Grupo 6** (+25)
 
 * **Binetsu Kara Mystery/Lily White**   _8/12    172_
-* **Butterfly/Kanata Konoe**   _10/12/14    155_
-* **Cinderella/CIDERGIRL**   _10/14    130_
+* **Butterfly/Kanata Konoe**   _10/12    155_
+* **Cinderella/CIDERGIRL**   _10/13    130_
 * **DIVE!/Setsuna Yuki**   _11/15    180_
 * **Dream Land! Dream World!/A·ZU·NA**   _7/15    210_
 * **Dream with You/Ayumu Uehara**   _9/11    136_
 * **Future flight/Aqours**   _10/15    188_
 * **I'm Still/Mia Taylor**   _10/12    90_
 * **Jingle Bells ga Tomaranai/Aqours**   _12/17    240_
-* **Kinmirai Happy End/CYaRon!**   _10/12/17    165_
+* **Kinmirai Happy End/CYaRon!**   _10/12    165_
 * **La Bella Patria/Emma Verde**   _10/13/14    156-186_
 * **Mirai wa Kaze no you ni/Liella!**   _7/10    136_
 * **Nonfiction!!/Liella!**   _11/15    232_
@@ -128,13 +128,13 @@ Total: 112
 * **Queendom/Lanzhu Zhong**   _7/11    105_
 * **Saiko Heart/Ai Miyashita**   _10/15    80-160_
 * **Snow Halation/μ's**   _8/13/14    173_
-* **Solitude Rain/Shizuku Osaka**   _12/12    158_
+* **Solitude Rain/Shizuku Osaka**   _12/12/12    158_
 * **Starlight Prologue/Liella!**   _9/11    165_
 * **START!! True dreams/Liella!**   _10/12    178_
 * **SUPER NOVA/DiverDiva**    _7/9/12    128_ **(Actualizado!!)**
-* **takt/ryo (supercell) feat. Mafumafu, gaku**   _XX/15    181_
+* **takt/ryo (supercell) feat. Mafumafu, gaku**   _11/15    181_
 * **Tokonatsu☆Sunshine/Liella!**   _10/16    112-155_
 * **Tsunagaru Connect/Rina Tennoji**   _9/12    175_
-* **VIVID WORLD/Karin Asaka**   _XX/15    128_
+* **VIVID WORLD/Karin Asaka**   _15    128_
 
 DATO del commit: Las canciones con ?? suelen tener detalles o peculiaridades respecto a las demas dificultades, atento ahi y disfrute :3

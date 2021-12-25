@@ -9,13 +9,13 @@
 #ORIGIN:;
 #CREDIT:;
 #BANNER:Solitude Rain-bn.jpg;
-#BACKGROUND:;
+#BACKGROUND:Solitude Rain-bg.png;
 #PREVIEWVID:;
 #JACKET:Solitude Rain-jacket.jpg;
 #CDIMAGE:;
 #DISCIMAGE:;
 #LYRICSPATH:;
-#CDTITLE:;
+#CDTITLE:cdtitle_ukiarrow.png;
 #MUSIC:Solitude Rain.mp3;
 #OFFSET:-0.920000;
 #SAMPLESTART:57.759964;

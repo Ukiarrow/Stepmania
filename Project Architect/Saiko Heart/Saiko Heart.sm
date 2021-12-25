@@ -7,9 +7,9 @@
 #GENRE:;
 #CREDIT:;
 #BANNER:Saiko Heart-bn.jpg;
-#BACKGROUND:;
+#BACKGROUND:Saiko Heart-bg.png;
 #LYRICSPATH:;
-#CDTITLE:;
+#CDTITLE:cdtitle_ukiarrow.png;
 #MUSIC:Saiko Heart.mp3;
 #OFFSET:0.200000;
 #SAMPLESTART:71.740021;

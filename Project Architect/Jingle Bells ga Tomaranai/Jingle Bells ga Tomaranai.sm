@@ -7,9 +7,9 @@
 #GENRE:;
 #CREDIT:;
 #BANNER:Jingle Bells ga Tomaranai-bn.png;
-#BACKGROUND:;
+#BACKGROUND:Jingle Bells ga Tomaranai-bg.png;
 #LYRICSPATH:;
-#CDTITLE:;
+#CDTITLE:cdtitle_ukiarrow.png;
 #MUSIC:Jingle Bells ga Tomaranai.mp3;
 #OFFSET:0.680000;
 #SAMPLESTART:75.499893;

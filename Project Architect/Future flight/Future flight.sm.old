@@ -7,9 +7,9 @@
 #GENRE:;
 #CREDIT:;
 #BANNER:Future flight-bn.jpg;
-#BACKGROUND:;
+#BACKGROUND:Future flight-bg.png;
 #LYRICSPATH:;
-#CDTITLE:;
+#CDTITLE:cdtitle_ukiarrow.png;
 #MUSIC:Future flight.mp3;
 #OFFSET:0.840000;
 #SAMPLESTART:63.859955;
@@ -1096,7 +1096,7 @@
 0000
 ,  // measure 80
 0110
-1000
+0100
 0001
 1000
 0002

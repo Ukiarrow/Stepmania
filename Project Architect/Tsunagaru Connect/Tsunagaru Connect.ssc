@@ -9,13 +9,13 @@
 #ORIGIN:;
 #CREDIT:;
 #BANNER:Tsunagaru Connect-bn.jpg;
-#BACKGROUND:;
+#BACKGROUND:Tsunagaru Connect-bg.png;
 #PREVIEWVID:;
 #JACKET:Tsunagaru Connect-jacket.jpg;
 #CDIMAGE:;
 #DISCIMAGE:;
 #LYRICSPATH:;
-#CDTITLE:;
+#CDTITLE:cdtitle_ukiarrow.png;
 #MUSIC:Tsunagaru Connect.mp3;
 #OFFSET:1.039999;
 #SAMPLESTART:57.699974;

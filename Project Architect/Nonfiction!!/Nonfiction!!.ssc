@@ -9,13 +9,13 @@
 #ORIGIN:;
 #CREDIT:;
 #BANNER:Nonfiction!!-bn.png;
-#BACKGROUND:;
+#BACKGROUND:Nonfiction!!-bg.jpg;
 #PREVIEWVID:;
 #JACKET:Nonfiction!!-jacket2.png;
 #CDIMAGE:Nonfiction!!-jacket.png;
 #DISCIMAGE:;
 #LYRICSPATH:;
-#CDTITLE:;
+#CDTITLE:cdtitle_ukiarrow.png;
 #MUSIC:Nonfiction!!.mp3;
 #OFFSET:1.100000;
 #SAMPLESTART:57.559959;

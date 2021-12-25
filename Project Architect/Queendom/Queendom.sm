@@ -7,9 +7,9 @@
 #GENRE:;
 #CREDIT:;
 #BANNER:Queendom-bn.jpg;
-#BACKGROUND:;
+#BACKGROUND:Queendom-bg.png;
 #LYRICSPATH:;
-#CDTITLE:;
+#CDTITLE:cdtitle_ukiarrow.png;
 #MUSIC:Queendom.mp3;
 #OFFSET:0.540000;
 #SAMPLESTART:68.559967;

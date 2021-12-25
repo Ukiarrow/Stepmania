@@ -9,13 +9,13 @@
 #ORIGIN:;
 #CREDIT:;
 #BANNER:Mirai wa Kaze no you ni-bn.png;
-#BACKGROUND:;
+#BACKGROUND:Mirai wa Kaze no you ni-bg.jpg;
 #PREVIEWVID:;
 #JACKET:Mirai wa Kaze no you ni-jacket.png;
-#CDIMAGE:;
+#CDIMAGE:cdtitle_ukiarrow.png;
 #DISCIMAGE:;
 #LYRICSPATH:;
-#CDTITLE:;
+#CDTITLE:cdtitle_ukiarrow.png;
 #MUSIC:Mirai wa Kaze no you ni.mp3;
 #OFFSET:0.020000;
 #SAMPLESTART:59.399963;

@@ -7,9 +7,9 @@
 #GENRE:;
 #CREDIT:;
 #BANNER:Binetsu kara Mystery-bn.png;
-#BACKGROUND:;
+#BACKGROUND:Binetsu kara Mystery-bg.png;
 #LYRICSPATH:;
-#CDTITLE:;
+#CDTITLE:cdtitle_ukiarrow.png;
 #MUSIC:Binetsu kara Mystery.mp3;
 #OFFSET:1.820000;
 #SAMPLESTART:40.359909;

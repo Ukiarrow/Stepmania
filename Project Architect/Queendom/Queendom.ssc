@@ -9,13 +9,13 @@
 #ORIGIN:;
 #CREDIT:;
 #BANNER:Queendom-bn.jpg;
-#BACKGROUND:;
+#BACKGROUND:Queendom-bg.png;
 #PREVIEWVID:;
 #JACKET:Queendom-jacket.jpg;
 #CDIMAGE:;
 #DISCIMAGE:;
 #LYRICSPATH:;
-#CDTITLE:;
+#CDTITLE:cdtitle_ukiarrow.png;
 #MUSIC:Queendom.mp3;
 #OFFSET:0.540000;
 #SAMPLESTART:68.559967;

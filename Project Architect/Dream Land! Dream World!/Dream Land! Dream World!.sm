@@ -7,9 +7,9 @@
 #GENRE:;
 #CREDIT:;
 #BANNER:Dream Land! Dream World!-bn.png;
-#BACKGROUND:;
+#BACKGROUND:Dream Land! Dream World!-bg.png;
 #LYRICSPATH:;
-#CDTITLE:;
+#CDTITLE:cdtitle_ukiarrow.png;
 #MUSIC:Dream Land! Dream World!.mp3;
 #OFFSET:1.999999;
 #SAMPLESTART:50.779972;

@@ -9,13 +9,13 @@
 #ORIGIN:;
 #CREDIT:;
 #BANNER:Saiko Heart-bn.jpg;
-#BACKGROUND:;
+#BACKGROUND:Saiko Heart-bg.png;
 #PREVIEWVID:;
 #JACKET:Saiko Heart-jacket.jpg;
 #CDIMAGE:;
 #DISCIMAGE:;
 #LYRICSPATH:;
-#CDTITLE:;
+#CDTITLE:cdtitle_ukiarrow.png;
 #MUSIC:Saiko Heart.mp3;
 #OFFSET:0.200000;
 #SAMPLESTART:71.740021;

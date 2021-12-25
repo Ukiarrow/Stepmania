@@ -9,7 +9,7 @@
 #ORIGIN:;
 #CREDIT:;
 #BANNER:START!! True dreams-bn.png;
-#BACKGROUND:;
+#BACKGROUND:START!! True dreams-bg.jpg;
 #PREVIEWVID:;
 #JACKET:START!! True dreams-jacket.png;
 #CDIMAGE:;
@@ -33,6 +33,7 @@
 #FAKES:;
 #LABELS:0.000=Song Start;
 #BGCHANGES:4.500=START!! True dreams.mp4=1.000=0=0=1=====,
+271.000=START!! True dreams-bg.jpg=1.000=0=0=1=====,
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
 #KEYSOUNDS:;

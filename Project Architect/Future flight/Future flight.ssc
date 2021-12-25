@@ -9,7 +9,7 @@
 #ORIGIN:;
 #CREDIT:;
 #BANNER:Future flight-bn.jpg;
-#BACKGROUND:;
+#BACKGROUND:Future flight-bg.png;
 #PREVIEWVID:;
 #JACKET:Future flight-jacket.jpg;
 #CDIMAGE:;
@@ -34,7 +34,7 @@
 #LABELS:0.000=Song Start;
 #BGCHANGES:6.000=Future flight.mp4=1.000=0=0=1=====,
 285.000=Future flight.mp4=0.100=0=0=1=====,
-337.000=Future flight-jacket.jpg=1.000=0=0=1=====,
+337.000=Future flight-bg.png=1.000=0=0=1=====,
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
 #KEYSOUNDS:;

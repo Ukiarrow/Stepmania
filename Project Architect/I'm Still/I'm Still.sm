@@ -7,9 +7,9 @@
 #GENRE:;
 #CREDIT:;
 #BANNER:I'm Still-bn.jpg;
-#BACKGROUND:;
+#BACKGROUND:I'm Still-bg.png;
 #LYRICSPATH:;
-#CDTITLE:;
+#CDTITLE:cdtitle_ukiarrow.png;
 #MUSIC:I'm Still.mp3;
 #OFFSET:0.640000;
 #SAMPLESTART:47.999973;

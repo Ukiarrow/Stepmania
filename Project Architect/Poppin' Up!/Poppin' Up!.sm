@@ -7,9 +7,9 @@
 #GENRE:;
 #CREDIT:;
 #BANNER:Poppin' Up!-bn.jpg;
-#BACKGROUND:Poppin' Up!-jacket2.jpg;
+#BACKGROUND:Poppin' Up!-bg.png;
 #LYRICSPATH:;
-#CDTITLE:;
+#CDTITLE:cdtitle_ukiarrow.png;
 #MUSIC:Poppin' Up!.mp3;
 #OFFSET:-0.100000;
 #SAMPLESTART:60.079960;
