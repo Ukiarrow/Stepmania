@@ -5,7 +5,7 @@ Repositorio para simfiles de stepmania
 
 Es el primer pack subido a git que traerá actualizaciones periódicas. Detallo la lista de temas , sus dificultades y BPM (no incluye velocidades).
 
-Total: 112
+Total: 120
 
 **Grupo Base** (+20)
 
@@ -136,5 +136,16 @@ Total: 112
 * **Tokonatsu☆Sunshine/Liella!**   _10/16    112-155_
 * **Tsunagaru Connect/Rina Tennoji**   _9/12    175_
 * **VIVID WORLD/Karin Asaka**   _15    128_
+
+**Grupo 7** (+8)
+
+* **Daydream/RiraN**   _9/12/15/17    150_
+* **KANATA/mikito**   _10    130_
+* **Kaze no Koe/Iris x Ruri Matsumura**   _10/16    70-140_
+* **Sing & Smile!!/QU4RTZ**   _7/10    135_
+* **Step! ZERO to ONE/Aqours**   _9/15    141_
+* **sweet star/ginkiha**   _7/10/15/16    150_
+* **sweet&sweet holiday/Printemps**   _8/12    138_
+* **Tiny Stars/Liella!**   _7/9    140_
 
 DATO del commit: Las canciones con ?? suelen tener detalles o peculiaridades respecto a las demas dificultades, atento ahi y disfrute :3
