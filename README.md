@@ -5,12 +5,12 @@ Repositorio para simfiles de stepmania
 
 Es el primer pack subido a git que traerá actualizaciones periódicas. Detallo la lista de temas , sus dificultades y BPM (no incluye velocidades).
 
-Total: 120
+Total: 128
 
 **Grupo Base** (+20)
 
 * | Canción                                         | Artista                                   | Dificultad      | BPM       |
-* | ----------------------------------------------- | ----------------------------------------- | --------------- | --------  |
+* 
 * | **99 Glooms**                                   | **Sta**                                   | _10 16 17_      | _93-185_  |
 * | **Aphasia**                                     | **Team Grimoire**                         | _7/13/18_       | _155_     |
 * | **Body Talk**                                   | **M2U**                                   | _9/12/15_       | _64-128_  |
@@ -35,7 +35,7 @@ Total: 120
 **Grupo 2** (+12)
 
 * | Canción                                         | Artista                                   | Dificultad      | BPM       |
-* | ----------------------------------------------- | ----------------------------------------- | ------------    | --------- |
+* 
 * | **Dazzling White Town**                         | **Saint Snow**                            | _6/9/14/??_     | _133_     |
 * | **DROPOUT!?**                                   | **Saint Snow**                            | _11/14/17_      | _183-364_ |
 * | **Evergreen**                                   | **Emma Verde**                            | _7/9/13/??_     | _120_     |
@@ -45,14 +45,14 @@ Total: 120
 * | **Realize**                                     | **Konomi Suzuki**                         | _8/10/13_       | _206_     |
 * | **SUPER NOVA**                                  | **DiverDiva**                             | _7/9/13_        | _128_     |
 * | **The Spark**                                   | **Scott Brown & M-Project feat. Krystal** | _7/10/13_       | _175_     |
-* | **悔しさは種**                                  | **Chiai Fujikawa**                        | _6/12/14_       | _182_     |
-* | **眠れる森に行きたいな**                        | **Kanata Konoe**                          | _6/7/8/??_      | _68-98_   |
-* | **トリコリコPLEASE!!**                          | **AZALEA**                                | _11/8/11/13_    | _140_     |
+* | **悔しさは種**                                   | **Chiai Fujikawa**                        | _6/12/14_       | _182_     |
+* | **眠れる森に行きたいな**                          | **Kanata Konoe**                          | _6/7/8/??_      | _68-98_   |
+* | **トリコリコPLEASE!!**                           | **AZALEA**                                | _11/8/11/13_    | _140_     |
 
 **Grupo 3** (+20)
 
 * | Canción                                         | Artista                                   | Dificultad      | BPM       |
-* | ----------------------------------------------- | ----------------------------------------- | ------------    | --------- |
+* 
 * | **Anata no risou no heroine**                   | **Shizuku Osaka**                         | _5/7/9_         | _89_      |
 * | **Baptism of Fire (CliqTrack remix)**           | **Louise Penman**                         | _7/11/14/16_    | _140_     |
 * | **Bring the light**                             | **Night Keepers**                         | _4/5/8_         | _112_     |
@@ -76,21 +76,23 @@ Total: 120
 
 **Grupo 4** (+15)
 
-* **Baku/Ikimonogakari**   _12/14    228_
-* **CHASE!/Setsuna Yuuki**   _10/13    170_
-* **CRASH MIND/Saint Snow**   _8/13    122_
-* **Cutie Panther/BiBi**   _12/14/17    170_
-* **Diamond/Kasumi Nakasu**   _9/13    175_
-* **Doki Pipo Emotion/Rina Tennoji**   _11/13    168_
-* **Fireflies (Funk Fiction Remix)/Nikki Simons**   _7/12/15    130_
-* **KOWAREYASUKI/Guilty Kiss**   _11/14/14    92-184_
-* **Make Me Burn/JAKAZiD**   _13/17    140_
-* **Meccha Going!!/Ai Miyashita**   _10/12    132_
-* **Nijiiro Passions!/Nijigasaki High School Idol Club**   _10/12    180_
-* **Spotlight On/A-Tz & Sam & Xinevsky**   _8/14    101_
-* **Stranger/James Landino**   _12/15/18    171_
-* **Wake up, Challenger!!/Aqours**   _8/10    158_
-* **Yume e no Ippo/Ayumu Uehara**   _8/10    85-170_
+* | Canción                            | Artista                              | Dificultad | BPM      |
+* 
+* | **Baku**                           | **Ikimonogakari**                    | _12/14_    | _228_    |
+* | **CHASE!**                         | **Setsuna Yuuki**                    | _10/13_    | _170_    |
+* | **CRASH MIND**                     | **Saint Snow**                       | _8/13_     | _122_    |
+* | **Cutie Panther**                  | **BiBi**                             | _12/14/17_ | _170_    |
+* | **Diamond**                        | **Kasumi Nakasu**                    | _9/13_     | _175_    |
+* | **Doki Pipo Emotion**              | **Rina Tennoji**                     | _11/13_    | _168_    |
+* | **Fireflies (Funk Fiction Remix)** | **Nikki Simons**                     | _7/12/15_  | _130_    |
+* | **KOWAREYASUKI**                   | **Guilty Kiss**                      | _11/14/14_ | _92-184_ |
+* | **Make Me Burn**                   | **JAKAZiD**                          | _13/17_    | _140_    |
+* | **Meccha Going!!**                 | **Ai Miyashita**                     | _10/12_    | _132_    |
+* | **Nijiiro Passions!**              | **Nijigasaki High School Idol Club** | _10/12_    | _180_    |
+* | **Spotlight On**                   | **A-Tz & Sam & Xinevsky**            | _8/14_     | _101_    |
+* | **Stranger**                       | **James Landino**                    | _12/15/18_ | _171_    |
+* | **Wake up, Challenger!!**          | **Aqours**                           | _8/10_     | _158_    |
+* | **Yume e no Ippo**                 | **Ayumu Uehara**                     | _8/10_     | _85-170_ |
 
 **Grupo 5** (+20)
 
@@ -143,15 +145,23 @@ Total: 120
 * **Tsunagaru Connect/Rina Tennoji**   _9/12    175_
 * **VIVID WORLD/Karin Asaka**   _15    128_
 
-**Grupo 7** (+8)
+**Grupo 7** (+16)
 
 * **Daydream/RiraN**   _9/12/15/17    150_
+* **Jakarta PREGRESSION/KURORAK**   _12/16    140_
 * **KANATA/mikito**   _10    130_
-* **Kaze no Koe/Iris x Ruri Matsumura**   _10/16    70-140_
+* **Kaze no Koe/Iris x Ruri Matsumura**   _11/16    70-140_
+* **Midnight Dancer/Toshiki Masuda**   _13/15    137_
+* **Natsuiro Egao de 1, 2, Jump!/μ's**   _7/10    170_
 * **Sing & Smile!!/QU4RTZ**   _7/10    135_
-* **Step! ZERO to ONE/Aqours**   _9/15    141_
+* **Step! ZERO to ONE/Aqours**   _9/16    141_
+* **Sunday Night Blues/TERU FOX**   _11/15    166-330_
 * **sweet star/ginkiha**   _7/10/15/16    150_
 * **sweet&sweet holiday/Printemps**   _8/12    138_
+* **The Rumbling/SiM**   _9/13    145_
 * **Tiny Stars/Liella!**   _7/9    140_
+* **Used to be/KIVΛ**   _9    140_
+* **VIVID VICE/Who-ya Extended**   _11/13    184_
+* **Zankyo Sanka/Aimer**   _10/11    171_
 
 DATO del commit: Las canciones con ?? suelen tener detalles o peculiaridades respecto a las demas dificultades, atento ahi y disfrute :3
