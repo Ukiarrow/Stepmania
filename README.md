@@ -5,7 +5,7 @@ Repositorio para simfiles de stepmania
 
 Es el primer pack subido a git que traerá actualizaciones periódicas. Detallo la lista de temas , sus dificultades y BPM (no incluye velocidades).
 
-Total: 128
+Total: 132
 
 **Grupo Base** (+20)
 
@@ -145,23 +145,27 @@ Total: 128
 * **Tsunagaru Connect/Rina Tennoji**   _9/12    175_
 * **VIVID WORLD/Karin Asaka**   _15    128_
 
-**Grupo 7** (+16)
+**Grupo 7** (+20)
 
+* **Absolutely/Shi Kuang Lee & Pico**   _10/16    125_
 * **Daydream/RiraN**   _9/12/15/17    150_
 * **Jakarta PREGRESSION/KURORAK**   _12/16    140_
 * **KANATA/mikito**   _10    130_
 * **Kaze no Koe/Iris x Ruri Matsumura**   _11/16    70-140_
-* **Midnight Dancer/Toshiki Masuda**   _13/15    137_
+* **Luolimasi/SIHanatsuka** _8/12    110_
+* **Midnight Dancer/Toshiki Masuda**   _8/13/15    137_
 * **Natsuiro Egao de 1, 2, Jump!/μ's**   _7/10    170_
 * **Sing & Smile!!/QU4RTZ**   _7/10    135_
 * **Step! ZERO to ONE/Aqours**   _9/16    141_
 * **Sunday Night Blues/TERU FOX**   _11/15    166-330_
 * **sweet star/ginkiha**   _7/10/15/16    150_
 * **sweet&sweet holiday/Printemps**   _8/12    138_
-* **The Rumbling/SiM**   _9/13    145_
+* **The Rumbling/SiM**   _3/5/9/13    145_
 * **Tiny Stars/Liella!**   _7/9    140_
 * **Used to be/KIVΛ**   _9    140_
-* **VIVID VICE/Who-ya Extended**   _11/13    184_
-* **Zankyo Sanka/Aimer**   _10/11    171_
+* **V./KIVΛ**   _14/17    150-300_
+* **VIVID VICE/Who-ya Extended**   _3/6/11/13    184_
+* **Xiorc/Team Grimoire+amaneko**   _14/18    160-195_
+* **Zankyo Sanka/Aimer**   _4/10/11    171_
 
 DATO del commit: Las canciones con ?? suelen tener detalles o peculiaridades respecto a las demas dificultades, atento ahi y disfrute :3
