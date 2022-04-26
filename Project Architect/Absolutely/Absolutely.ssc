@@ -15,7 +15,7 @@
 #CDIMAGE:;
 #DISCIMAGE:;
 #LYRICSPATH:;
-#CDTITLE:;
+#CDTITLE:cdtitle_ukiarrow.png;
 #MUSIC:Absolutely.mp3;
 #OFFSET:0.440000;
 #SAMPLESTART:45.627907;

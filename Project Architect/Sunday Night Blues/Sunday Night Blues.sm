@@ -9,7 +9,7 @@
 #BANNER:banner1.png;
 #BACKGROUND:Background.jpg;
 #LYRICSPATH:;
-#CDTITLE:;
+#CDTITLE:cdtitle_ukiarrow.png;
 #MUSIC:Sunday Night Blues.mp3;
 #OFFSET:0.320000;
 #SAMPLESTART:97.488014;

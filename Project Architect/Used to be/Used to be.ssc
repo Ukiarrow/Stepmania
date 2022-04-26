@@ -15,7 +15,7 @@
 #CDIMAGE:;
 #DISCIMAGE:;
 #LYRICSPATH:;
-#CDTITLE:;
+#CDTITLE:cdtitle_ukiarrow.png;
 #MUSIC:Used to be.mp3;
 #OFFSET:0.400000;
 #SAMPLESTART:121.268066;

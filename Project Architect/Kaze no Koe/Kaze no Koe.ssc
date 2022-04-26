@@ -15,7 +15,7 @@
 #CDIMAGE:;
 #DISCIMAGE:;
 #LYRICSPATH:;
-#CDTITLE:;
+#CDTITLE:cdtitle_ukiarrow.png;
 #MUSIC:Kaze no Koe.mp3;
 #OFFSET:0.380000;
 #SAMPLESTART:84.887917;

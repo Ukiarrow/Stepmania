@@ -9,13 +9,13 @@
 #ORIGIN:;
 #CREDIT:;
 #BANNER:Natsuiro Egao de 1, 2, Jump!-bn.png;
-#BACKGROUND:;
+#BACKGROUND:Natsuiro Egao de 1, 2, Jump!-bg.png;
 #PREVIEWVID:;
 #JACKET:Natsuiro Egao de 1, 2, Jump!-jacket.png;
 #CDIMAGE:;
 #DISCIMAGE:;
 #LYRICSPATH:;
-#CDTITLE:;
+#CDTITLE:cdtitle_ukiarrow.png;
 #MUSIC:Natsuiro Egao de 1, 2, Jump!.mp3;
 #OFFSET:0.080000;
 #SAMPLESTART:67.947968;

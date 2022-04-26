@@ -9,7 +9,7 @@
 #BANNER:banner1.png;
 #BACKGROUND:Background.jpg;
 #LYRICSPATH:;
-#CDTITLE:;
+#CDTITLE:cdtitle_ukiarrow.png;
 #MUSIC:KANATA.mp3;
 #OFFSET:0.420000;
 #SAMPLESTART:62.787895;

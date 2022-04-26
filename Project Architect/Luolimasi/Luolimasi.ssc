@@ -15,7 +15,7 @@
 #CDIMAGE:;
 #DISCIMAGE:;
 #LYRICSPATH:;
-#CDTITLE:;
+#CDTITLE:cdtitle_ukiarrow.png;
 #MUSIC:Luolimasi.mp3;
 #OFFSET:1.619999;
 #SAMPLESTART:38.167912;

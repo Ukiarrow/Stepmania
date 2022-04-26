@@ -9,13 +9,13 @@
 #ORIGIN:;
 #CREDIT:;
 #BANNER:sweet&sweet holiday-bn.png;
-#BACKGROUND:;
+#BACKGROUND:sweet&sweet holiday-bg.png;
 #PREVIEWVID:;
 #JACKET:sweet&sweet holiday-jacket.png;
 #CDIMAGE:;
 #DISCIMAGE:;
 #LYRICSPATH:;
-#CDTITLE:;
+#CDTITLE:cdtitle_ukiarrow.png;
 #MUSIC:sweet&sweet holiday.mp3;
 #OFFSET:1.879999;
 #SAMPLESTART:67.368004;
