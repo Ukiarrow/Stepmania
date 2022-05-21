@@ -97,7 +97,7 @@ Total: 136
 **Grupo 5** (+20)
 
 * | Canción                                         | Artista                                   | Dificultad      | BPM       |
-
+*
 * | **Alexandrite**                                 | **Onoken**                                | _12/17_         | _88-175_  |
 * | **Beautiful Moonlight**                         | **QU4RTZ**                                | _8/14/15_       | _116_     |
 * | **βinαrΨ**                                      | **Ring**                                  | _12/15_         | _168_     |
@@ -122,7 +122,7 @@ Total: 136
 **Grupo 6** (+25)
 
 * | Canción                                         | Artista                                   | Dificultad      | BPM       |
-
+*
 * | **Binetsu Kara Mystery**                        | **Lily White**                            | _8/12_          | _172_     |
 * | **Butterfly**                                   | **Kanata Konoe**                          | _10/12/??_      | _155_     |
 * | **Cinderella**                                  | **CIDERGIRL**                             | _10/13_         | _130_     |
@@ -152,7 +152,7 @@ Total: 136
 **Grupo 7** (+20)
 
 * | Canción                                         | Artista                                   | Dificultad      | BPM       |
-
+*
 * | **Absolutely**                                  | **Shi Kuang Lee & Pico**                  | _10/16_         | _125_     |
 * | **Daydream**                                    | **RiraN**                                 | _9/12/15/17_    | _150_     |
 * | **Jakarta PREGRESSION**                         | **KURORAK**                               | _12/16_         | _140_     |
@@ -177,11 +177,17 @@ Total: 136
 **Grupo 8** (+04)
 
 * | Canción                                         | Artista                                   | Dificultad      | BPM       |
-
+*
+* | **Aion no Uta**                                 | **Emma Verdde**                           | _6/8/12_        | _52-774_  |
+* | **Analog Heart**                                | **Rina Tennoji**                          | _9/11_          | _135_     |
 * | **Colorful Dreams! Colorful Smiles!**           | **Nijigasaki High School Idol Club**      | _10/13_         | _185_     |
+* | **ENJOY IT!**                                   | **QU4RTZ**                                | _9/13_          | _120_     |
 * | **Eutopia**                                     | **Lanzhu Zhong**                          | _12/14_         | _128_     |
-* | **Fire Bird**                                   | **Karin Asaka**                           | _11/14/??_      | _128_     |
+* | **Fire Bird**                                   | **Karin Asaka**                           | _12/15/13_      | _128_     |
+* | **FIRE!!**                                      | **Kouji Wada**                            | _2/4/8/11_      | _166_     |
+* | **Märchen Star**                                | **Kanata Konoe**                          | _8/12_          | _62_      |
 * | **Margaret**                                    | **Kasumi Nakasu**                         | _10/13_         | _110_     |
+* | **Yume ga Bokura no Taiyo sa**                  | **Nijigasaki High School Idol Club**      | _10/12_         | _127_     |
 
 
 **DATO del commit**: Las canciones con ?? suelen tener detalles o peculiaridades respecto a las demas dificultades, atento ahi y disfrute :3
